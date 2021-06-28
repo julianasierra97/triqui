@@ -4,4 +4,4 @@ Para ejecutar el front-end de la aplicación es necesario correr el siguiente co
 
 Para ejecutar el back-end es necesario correr el main del archivo wgsi.py en la carpeta back
 
-Es necesario que tanto el backend como el front end funcionen para tener un adecuado funcionamiento de la aplicaicon. 
+Es necesario que tanto el backend como el front end funcionen para que la aplicación funcione adecuadamente.
