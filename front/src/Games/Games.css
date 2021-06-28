@@ -1,0 +1,19 @@
+.games-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.games-container {
+    padding: 20px;
+}
+
+.games-table-body{
+    display: table;
+    width: 100%;
+}
+
+.heading-games {
+    color: darkslateblue;
+    font-family: 'Press Start 2P', serif;
+}

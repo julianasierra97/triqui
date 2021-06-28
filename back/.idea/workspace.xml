@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="492ff6be-dfbb-482b-8728-027d3fbb3f55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/db_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front/src/Data/BackendConnection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front/src/Games/Games.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front/src/Games/Games.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="53e90aea-5694-4a22-a8e1-ac09900dae8e" />
+  <component name="ProjectId" id="1uY71Jhi8LbLJ3UuHSQNBgdcnj3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.wgsi">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="back" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wgsi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="back" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wgsi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wgsi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="492ff6be-dfbb-482b-8728-027d3fbb3f55" name="Default Changelist" comment="" />
+      <created>1624830453924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624830453924</updated>
+      <workItem from="1624830457908" duration="7219000" />
+      <workItem from="1624842124457" duration="1010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1624842770556">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624833556319" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1624842770556" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1624842770554">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1624833556317" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1624842770554" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1624842770553">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1624833556316" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1624842770553" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1624842770555">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1624833556318" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1624842770555" />
+    <state width="1398" height="283" key="GridCell.Tab.1.bottom" timestamp="1624839979709">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624833140340" />
+    <state width="1398" height="283" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1624839979709" />
+    <state width="1398" height="283" key="GridCell.Tab.1.center" timestamp="1624839979708">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1624833140338" />
+    <state width="1398" height="283" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1624839979708" />
+    <state width="1398" height="283" key="GridCell.Tab.1.left" timestamp="1624839979707">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1624833140337" />
+    <state width="1398" height="283" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1624839979707" />
+    <state width="1398" height="283" key="GridCell.Tab.1.right" timestamp="1624839979708">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1624833140339" />
+    <state width="1398" height="283" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1624839979708" />
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1624834638352">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1624834638352" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/back$wgsi.coverage" NAME="wgsi Coverage Results" MODIFIED="1624842770433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

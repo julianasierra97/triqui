@@ -1,0 +1,52 @@
+.button-triqui {
+    width: 115px;
+    height: 115px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    color: cadetblue;
+    font-size: 40px;
+    border-color: darkslateblue;
+}
+
+.button-triqui-crossed {
+    width:115px;
+    height: 115px;
+    background-color: cadetblue;
+    border-radius: 5px;
+    color: darkslateblue;
+    font-size: 40px;
+    border-color: darkslateblue;
+}
+
+.table-triqui {
+    margin: auto;
+    background-color: darkslateblue;
+    padding: 2vh;
+}
+
+.triqui-cell{
+    width: 15vh;
+    height: 15vh;
+}
+
+.container-triqui{
+    padding: 20px;
+}
+
+.alert{
+    margin: auto auto 20px;
+    width: 50%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    border-color: darkslateblue;
+    border-width: 5px;
+}
+
+.button-new-game {
+    font-size: 25px;
+    border-radius: 10px;
+    border-color: darkslateblue;
+    border-width: 5px;
+}

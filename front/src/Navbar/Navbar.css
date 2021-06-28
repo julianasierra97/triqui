@@ -1,0 +1,11 @@
+.title {
+    margin: 0;
+    font-size: 40px;
+    color: whitesmoke;
+    font-family: 'Press Start 2P', serif;
+}
+
+.nav-bar {
+    background-color: darkslateblue;
+    padding: 2vh;
+}
